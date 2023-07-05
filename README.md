@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cejurado
-- 👀 I’m interested in Project Management PMP and Agile Metodologis
-- 🌱 I’m currently learning to become a Product Owner
+- 👀 I’m interested in Project Management
+- 🌱 I’m currently learning to became a Product Owner
 - 💞️ I’m looking to collaborate on fintech projects and operations projects
 - 📫 How to reach me ce.juradoa@gmail.com
 
